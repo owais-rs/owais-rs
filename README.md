@@ -26,6 +26,8 @@ Click to verify.
 ## Projects
 
 ### **SIEM Home-lab**  
+> *📌 To be uploaded soon*
+
 **Technologies:** Splunk, Windows, VirtualBox  
 
 - Created a virtualized cybersecurity homelab to simulate real-world network environments with multiple machines, focusing on Blue Team activities.  
@@ -36,12 +38,14 @@ Click to verify.
 ---
 
 ### **Active Directory Home-lab**  
+> *📌 To be uploaded soon*
+
 **Technologies:** Windows Server, VirtualBox  
 
 - Set up a virtualized Active Directory environment using Windows Server and VirtualBox, creating an isolated network for testing and learning identity management concepts.  
 - Configured and administered domain controllers, managing users, groups, and organizational units (OUs), while setting up and controlling permissions within the virtual domain.  
 - Implemented and managed Group Policy Objects (GPOs) to enforce security settings, such as password policies, software restrictions, and user access controls across the network.  
-- Simulated real-world identity and access management scenarios, including user authentication, role-based access control (RBAC), resource sharing, and troubleshooting login issues to mimic a corporate environment.  
+- Simulated real-world identity and access management scenarios, including user authentication, role-based access control (RBAC), resource sharing, and troubleshooting login issues to mimic a corporate environment.    
 
 ---
 
