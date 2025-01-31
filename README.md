@@ -1,4 +1,4 @@
-# Hello, I'm Owais
+# Hi, I'm Owais!
 <a href="https://linkedin.com/in/owais-s"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m an aspiring cybersecurity professional with a passion for safeguarding digital ecosystems. Equipped with industry-recognized certifications and hands-on experience through lab simulations and real-world problem-solving, I specialize in identifying vulnerabilities, detecting threats, and fortifying system security.
