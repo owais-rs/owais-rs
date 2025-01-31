@@ -1,7 +1,7 @@
 # Hello, I'm Owais
 <a href="https://linkedin.com/in/owais-s"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m an aspiring cybersecurity professional with a passion for safeguarding digital ecosystems. Equipped with internationally recognized certifications and hands-on experience through lab simulations and real-world problem-solving, I specialize in identifying vulnerabilities, detecting threats, and fortifying system security.
+I’m an aspiring cybersecurity professional with a passion for safeguarding digital ecosystems. Equipped with industry-recognized certifications and hands-on experience through lab simulations and real-world problem-solving, I specialize in identifying vulnerabilities, detecting threats, and fortifying system security.
 
 ## Objective
 
@@ -20,6 +20,16 @@ Click to verify.
         <img src="https://img.shields.io/badge/-Associate%20of%20ISC²%20(SSCP)-4D4D4D?&style=for-the-badge&logo=ISC2&logoColor=white" />
     </a>
 </div>
+
+## Technical Skills
+
+- ![Languages](https://img.shields.io/badge/Languages-Python%2C%20SQL-blue?style=flat-square)  
+- ![Security Tools](https://img.shields.io/badge/Security%20Tools-Splunk%2C%20Wireshark%2C%20Nmap%2C%20Burp%20Suite-red?style=flat-square)  
+- ![Identity and Access Management](https://img.shields.io/badge/IAM-Active%20Directory-brightgreen?style=flat-square)  
+- ![Operating Systems](https://img.shields.io/badge/OS-Windows%2C%20Linux-orange?style=flat-square)  
+- ![Virtualization](https://img.shields.io/badge/Virtualization-VMWare%2C%20VirtualBox-yellow?style=flat-square)  
+
+
 
 
 
